@@ -1,4 +1,0 @@
-pip install selenium
-pip install webdriver_manager
-pip install xlrd==1.2.0
-//parameterized
